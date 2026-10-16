@@ -1,0 +1,42 @@
+{
+  "name": "Магазин плагинов Nemesis",
+  "updated": "2026-10-16",
+  "plugins": [
+    {
+      "id": "anime-pack",
+      "name": "Аниме-пак",
+      "version": "1.0",
+      "author": "kitikat",
+      "description": "Милые иконки меню вместо штриховых: цветок сакуры, котик, лапка, сердечко и искра для раздела плагинов. Фон не меняет.",
+      "jar": "jars/nemesis-anime-pack.jar",
+      "icon": "icons/anime-pack.png"
+    },
+    {
+      "id": "theme-from-background",
+      "name": "Цвет из фона",
+      "version": "1.0",
+      "author": "kitikat",
+      "description": "Определяет главный цвет текущих обоев и перекрашивает весь лаунчер под него: кнопки, слайдеры, чекбоксы и подсветку. Сам меняется при смене фона.",
+      "jar": "jars/nemesis-theme-from-background.jar",
+      "icon": "icons/theme-from-background.png"
+    },
+    {
+      "id": "synthwave",
+      "name": "Синтвейв",
+      "version": "1.0",
+      "author": "kitikat",
+      "description": "Ретро-фон: неоновое солнце над перспективной сеткой и звёзды. Акцент лаунчера становится ярко-розовым, под неон.",
+      "jar": "jars/nemesis-synthwave.jar",
+      "icon": "icons/synthwave.png"
+    },
+    {
+      "id": "minimal",
+      "name": "Минимал",
+      "version": "1.0",
+      "author": "kitikat",
+      "description": "Чистый графит с мягким свечением — ничего лишнего. Акцент становится тёплым и сдержанным.",
+      "jar": "jars/nemesis-minimal.jar",
+      "icon": "icons/minimal.png"
+    }
+  ]
+}
