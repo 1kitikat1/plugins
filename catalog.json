@@ -37,6 +37,15 @@
       "description": "Чистый графит с мягким свечением — ничего лишнего. Акцент становится тёплым и сдержанным.",
       "jar": "jars/nemesis-minimal.jar",
       "icon": "icons/minimal.png"
+    },
+    {
+      "id": "globals",
+      "name": "Globals",
+      "version": "1.0",
+      "author": "kitikat",
+      "description": "Аддон для Nemesis Client: метки в мире и чат для своих. Метка — команда .mark, чат — .chat <сообщение>. Увидят метки и сообщения только игроки Nemesis с установленным Globals; без аддона в меню клиента модуль отмечен знаком «!». Ставится в папку mods клиента.",
+      "jar": "jars/globals-addon-1.0.jar",
+      "icon": "icons/globals.png"
     }
   ]
 }
